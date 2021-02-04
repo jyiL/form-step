@@ -1,5 +1,5 @@
 {
-    "name": "dcat-admin/form-step",
+    "name": "jyil/form-step",
     "description": "Dcat Admin 分步表单扩展",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
